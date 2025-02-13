@@ -27,8 +27,8 @@ A RESTful API for managing tasks built with Django REST Framework.
 
 1. **Clone repository**
    ```bash
-   git clone https://github.com/your-username/todo-api.git
-   cd todo-api
+   git clone https://github.com/viplav113/DjangoTodoList.git
+   cd DjangoTodoList
    Install requirements
    
 2. **Install requirements**
