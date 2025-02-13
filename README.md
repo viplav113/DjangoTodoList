@@ -105,5 +105,8 @@ curl -X DELETE http://localhost:8000/tasks/1/
 4. To delete task
 ![Screenshot 2025-02-13 233551](https://github.com/user-attachments/assets/2a000bc7-0411-43e2-bed8-c52e1b355bf7)
 
+5. If task is not present for particular ID 
+![image](https://github.com/user-attachments/assets/700ad3e1-4177-4218-9887-acacd33eb7b3)
+
 
 
